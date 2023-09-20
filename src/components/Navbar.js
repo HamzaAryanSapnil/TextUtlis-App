@@ -90,7 +90,7 @@ const Navbar = (props) => {
     
   />
   <label className="form-check-label" htmlFor="flexSwitchCheckDefault">
-    Switch Modes
+    Modes
   </label>
 </div>
       {/* <form className="d-flex" role="search">
